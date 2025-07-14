@@ -1,0 +1,5 @@
+train: C:/Users/ROG/Desktop/Shooting_board_dataset/yolo_dataset/images/train
+val: C:/Users/ROG/Desktop/Shooting_board_dataset/yolo_dataset/images/valid
+
+nc: 2
+names: ['Target', 'inner']
